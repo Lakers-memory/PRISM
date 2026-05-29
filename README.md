@@ -4,6 +4,8 @@ This repository contains the source code for **A Product Manifold Method for Fea
 
 ![Overall architecture](PRISM.png)
 
+If you would like to review the full paper with all appendices, please refer to [full_paper_with_appendix.pdf](full_paper_with_appendix.pdf) included in this repository.
+
 ## Code Overview
 
 1. `PRISM.py` is the core implementation of our feature selection algorithm PRISM. It calls key functions from `Functions.py`. The GPU-accelerated version, `PRISM_gpu.py`, utilizes the GPU for computation and relies on `Functions_gpu.py` for core functions.
