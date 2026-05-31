@@ -14,7 +14,7 @@ If you would like to review the full paper with all appendices, please refer to 
 
 3. The folder named `Prostate` contains the experimental code for reproducing the Prostate dataset mentioned in our paper. Running `Prostate/PRISM_Prostate_gpu.py` can get the experimental results of our algorithm PRISM.
 
-6. It should be noted that the baseline method we compared is mainly implemented using functions in the `skfeature` library. The `skfeature` library needs to be installed before running the code file. The specific experimental settings are shown in Appendix C of our paper.
+4. It should be noted that the baseline method we compared is mainly implemented using functions in the `skfeature` library. The `skfeature` library needs to be installed before running the code file. The specific experimental settings are shown in Appendix C of our paper.
 
 
 
